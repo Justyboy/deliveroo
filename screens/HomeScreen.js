@@ -27,7 +27,7 @@ const HomeScreen = () => {
   }, [])
 
   return (
-    <SafeAreaView className='bg-white pt-5'>
+    <SafeAreaView className='bg-white pt-10'>
       <View className='flex-row pb-3 items-center mx-4 space-x-2'>
         <Image
           source={{ uri: "https://links.papareact.com/wru" }}
@@ -74,14 +74,14 @@ const HomeScreen = () => {
         {/* Tasty Discounts */}
         <FeaturedRow
           id='testing 2'
-          title='Featured'
+          title='Tasty Discounts'
           description='Paid placements from our partners'
         />
 
         {/* Offers Near you */}
         <FeaturedRow
           id='testing 3'
-          title='Featured'
+          title='Offers Near you'
           description='Paid placements from our partners'
         />
       </ScrollView>

@@ -16,7 +16,7 @@ const Categories = () => {
         imgUrl='https://img2.storyblok.com/filters:format(webp)/f/62776/512x256/dd8a3a1d71/chicken-wide.jpg'
         title='title 1'
       />
-      <CategoryCard imgUrl='https://links.papareact.com/gn7' title='title 2' />
+      <CategoryCard imgUrl='https://img2.storyblok.com/filters:format(webp)/f/62776/512x256/b07158449c/sushi-wide.jpg' title='title 2' />
 
       <CategoryCard
         imgUrl='https://img2.storyblok.com/filters:format(webp)/f/62776/512x256/e0988a5a22/curry-wide.jpg'
